@@ -18,7 +18,7 @@ A fun and interactive webpage to ask someone to be your Valentine! This project 
 ## How to Use 🚀
 
 1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/valentine-project.git
+   ```bash[
+   git clone(https://github.com/nikita1-pixel/v)
    or else just copy it as its been combined into one big code and then two files
    
